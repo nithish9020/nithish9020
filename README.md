@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Nithishkumar 👋</h1>
+<h1 align="center">Nithishkumar Anandharaj</h1>
 
 <p align="center">
-  <em>Engineering student building real systems — not tutorial projects.</em><br/>
-  Working at the intersection of <strong>AI · SaaS · Software Infrastructure</strong>
+  <em>Engineering student. Systems thinker. Builder first.</em><br/>
+  <strong>AI · SaaS · Software Infrastructure</strong>
 </p>
 
 <p align="center">
@@ -19,83 +19,76 @@
 
 ---
 
-## 🧠 About Me
+## — Who Actually Is This Guy
 
-- 🎓 B.Tech IT @ Sri Krishna College of Engineering & Technology, Coimbatore
-- 🔧 I build production-grade systems — every technical decision runs through a **business filter**
-- 🚀 Moving toward a **founder-engineer** path — obsessed with scalability, automation, and real impact
-- 🧩 300+ problems solved across LeetCode, IAmNeo, and other platforms
-- 📍 Open to internships where I can **ship fast, think in systems, and build things that last**
+I'm a second-year IT student at SKCET, Coimbatore. I got into coding not to pass exams but because I wanted to build things that work in the real world — and that distinction has shaped everything since.
 
----
+I build full-stack systems with a focus on architecture, scalability, and actual business impact. Every project I take on has a real use case behind it — not a tutorial to follow. I've shipped a freelance gym management app, an interview scheduling platform, a portfolio tool, and I'm currently building a live bus tracking system.
 
-## 🛠️ Tech Stack
+Outside of building, I've solved 300+ problems across LeetCode and IAmNeo — not for the badge, but because DSA sharpens how I think about systems.
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-
-**Backend & Systems**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+I'm currently looking for an internship where I can contribute fast, think deeply, and keep building things that last.
 
 ---
 
-## 🚀 What I'm Building
+## — The Weapons I Ship With
 
-| Project | Status | Stack |
-|--------|--------|-------|
-| [NammaBus](https://github.com/nithish9020/NammaBus) — Intercity bus tracking system | 🔨 In Progress | Bun, React Native, Drizzle, Neon DB |
-| [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular) — Automated panel scheduling | ✅ Shipped | Spring Boot, React, OAuth, AWS |
-| [VTone](https://github.com/nithish9020/vtone-gym-suite) — Gym management platform | ✅ Shipped | React Native, Firebase, WhatsApp API |
-| [LinkDash](https://github.com/nithish9020/LinkDash) — Portfolio card generator | ✅ Live | React, Vite, Firebase |
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&perline=5" />
+</p>
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=5" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</p>
+
+<p align="center"><strong>Backend & Systems</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=5" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
+</p>
+
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis&perline=5" />
+</p>
+
+<p align="center"><strong>DevOps & Cloud</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=5" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## — Things I've Actually Shipped
+
+| Project | What It Does | Status | Stack |
+|--------|-------------|--------|-------|
+| [NammaBus](https://github.com/nithish9020/NammaBus) | Intercity real-time bus tracking for admins & passengers | ![In Progress](https://img.shields.io/badge/In_Progress-FFB300?style=flat-square) | Bun, React Native, Drizzle, Neon DB |
+| [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular) | Automated panel scheduling with calendar sync | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | Spring Boot, React, OAuth, AWS |
+| [VTone](https://github.com/nithish9020/vtone-gym-suite) | Gym management for trainers, clients & admins | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | React Native, Firebase, WhatsApp API |
+| [LinkDash](https://github.com/nithish9020/LinkDash) | Portfolio card generator with shareable links | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | React, Vite, Firebase |
+
+---
+
+## — What's On The Workbench
+
+- Finishing **NammaBus** — real-time intercity bus tracking with live location, admin dashboard, and passenger app
+- Going deeper into **distributed systems** and cloud infrastructure (AWS — VPC, Lambda, RDS)
+- Exploring **AI-assisted product tooling** and applied ML pipelines
+
+---
+
+## — The Numbers Don't Lie
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithish9020&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish9020&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced system design patterns & distributed systems
-- AI-assisted product tooling & applied ML pipelines
-- Cloud infrastructure (AWS deep dive — VPC, Lambda, RDS)
 
 ---
 
