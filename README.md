@@ -15,7 +15,7 @@
 
 ### About me
 
-Backend-first full stack developer based in Coimbatore. I take AI products from first commit to the app stores, and I care most about what happens when things go wrong: a model provider goes down, a job fails halfway, the shop's internet drops.
+Full stack developer focused on reliable backend systems and AI-integrated products across web and mobile.
 
 ### Work experience
 
