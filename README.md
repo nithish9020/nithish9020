@@ -1,7 +1,8 @@
 <h1 align="center">Nithishkumar Anandharaj</h1>
 
 <p align="center">
-  Full stack developer from Coimbatore. Backend systems, AI products, and apps that people actually use.
+  <strong>I build the backend behind AI products.</strong><br/>
+  Queues, fallbacks and release pipelines that keep them running in production.
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ### About me
 
-Final-year IT student at SKCET, Coimbatore. I like the parts of a product users never see: background jobs that don't lose work, AI calls that fail over cleanly, apps that keep working offline.
+Backend-first full stack developer based in Coimbatore. I take AI products from first commit to the app stores, and I care most about what happens when things go wrong: a model provider goes down, a job fails halfway, the shop's internet drops.
 
 ### Work experience
 
@@ -58,4 +59,4 @@ Older: [NammaBus](https://github.com/nithish9020/NammaBus) · [Interview Schedul
 
 ### Right now
 
-Open to full-time backend or full stack roles for 2027. If you're building something interesting, my inbox is open.
+Open to backend and AI product roles. If you're building something interesting, say hi.
