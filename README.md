@@ -1,97 +1,51 @@
 <h1 align="center">Nithishkumar Anandharaj</h1>
 
 <p align="center">
-  <em>Engineering student. Systems thinker. Builder first.</em><br/>
-  <strong>AI · SaaS · Software Infrastructure</strong>
+  Full stack developer from Coimbatore. Backend systems, AI products, and apps that people actually use.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nithishkumar-a-356b4120b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nithishkumar9020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nithish9020">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://nithish9020.dev"><img src="https://img.shields.io/badge/Resume-nithish9020.dev-111111?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nithish9020"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nithishkumar9020@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## — Who Actually Is This Guy
+### About me
 
-I'm a second-year IT student at SKCET, Coimbatore. I got into coding not to pass exams but because I wanted to build things that work in the real world — and that distinction has shaped everything since.
+I'm a final-year IT student at SKCET, Coimbatore. Most of what I know I picked up by shipping things for real users, from a gym owner's app to a retail shop that bills customers on my ERP every day.
 
-I build full-stack systems with a focus on architecture, scalability, and actual business impact. Every project I take on has a real use case behind it — not a tutorial to follow. I've shipped a freelance gym management app, an interview scheduling platform, a portfolio tool, and I'm currently building a live bus tracking system.
+Recently I spent five months at **SWS AI** building Yellow Owl, an assessment platform where AI writes and grades the tests. I worked on all of it: the backend, the Flutter app, the React dashboards, and the release pipeline that pushes builds to the Play Store and TestFlight.
 
-Outside of building, I've solved 300+ problems across LeetCode and IAmNeo — not for the badge, but because DSA sharpens how I think about systems.
+The work I like most is the part users never see. Background jobs that don't lose work. AI calls that fail over to another provider instead of erroring out. Apps that keep billing when the shop's internet drops.
 
-I'm currently looking for an internship where I can contribute fast, think deeply, and keep building things that last.
+### Things I've built
 
----
+**Yellow Owl** · *SWS AI, 2026*
+AI-graded assessments plus daily and weekly challenges, used by 200+ people on web, Android and iOS. Question generation and test evaluation run in the background on Redis and BullMQ. The AI provider sits behind its own layer, so we can switch models without touching business logic. The app and dashboards both use API clients generated from one OpenAPI spec, and releases go out through Fastlane on a Mac mini we run as a CI runner.
+`Node.js` `TypeScript` `MongoDB` `Redis` `BullMQ` `Azure` `Flutter` `React` `Fastlane`
 
-## — The Weapons I Ship With
+**[TP-ERP](https://github.com/nithish9020/tp-erp)** · *billing and inventory for a retail shop*
+Live in production and used by the shop's staff every day. I sat with them to understand how they actually work, then cut the usual ERP features down to what they needed. It has a web app and a mobile app in one monorepo that share the same validation schemas, plus offline billing that syncs when the connection is back and a PIN login so the counter stays fast.
+`TypeScript` `React` `React Native` `Expo` `PostgreSQL` `Drizzle` `Zod`
 
-<p align="center"><strong>Languages</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&perline=5" />
+**[Coligo](https://github.com/nithish9020/coligo-college-admission-assistant)** · *WhatsApp admissions assistant (team project)*
+A RAG backend that answers cutoff questions from official admission data and shows where each answer came from. It's based on an SIH problem statement. It has a primary and a fallback LLM, and lint, type checks and tests run in CI before anything is deployed.
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Celery` `Redis`
+
+**[VTone](https://github.com/nithish9020/vtone-gym-suite)** · *freelance gym app*
+A gym app with separate access for admins, trainers and members. It tracks workouts and diets, and sends fee reminders over WhatsApp automatically so the owner doesn't have to chase people.
+`React Native` `Express` `Firebase` `WhatsApp API`
+
+Older side projects: [NammaBus](https://github.com/nithish9020/NammaBus) (live bus tracking) and [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular) (Spring Boot + React).
+
+### What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,flutter,tailwind,nodejs,express,fastapi,redis,postgres,mongodb,docker,githubactions,azure,firebase,git,linux&perline=9" />
 </p>
 
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=5" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-</p>
+### Right now
 
-<p align="center"><strong>Backend & Systems</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=5" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
-</p>
-
-<p align="center"><strong>Databases</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis&perline=5" />
-</p>
-
-<p align="center"><strong>DevOps & Cloud</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=5" />
-</p>
-
----
-
-## — Things I've Actually Shipped
-
-| Project | What It Does | Status | Stack |
-|--------|-------------|--------|-------|
-| [NammaBus](https://github.com/nithish9020/NammaBus) | Intercity real-time bus tracking for admins & passengers | ![In Progress](https://img.shields.io/badge/In_Progress-FFB300?style=flat-square) | Bun, React Native, Drizzle, Neon DB |
-| [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular) | Automated panel scheduling with calendar sync | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | Spring Boot, React, OAuth, AWS |
-| [VTone](https://github.com/nithish9020/vtone-gym-suite) | Gym management for trainers, clients & admins | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | React Native, Firebase, WhatsApp API |
-| [LinkDash](https://github.com/nithish9020/LinkDash) | Portfolio card generator with shareable links | ![Shipped](https://img.shields.io/badge/Shipped-2EA043?style=flat-square) | React, Vite, Firebase |
-
----
-
-## — What's On The Workbench
-
-- Finishing **NammaBus** — real-time intercity bus tracking with live location, admin dashboard, and passenger app
-- Going deeper into **distributed systems** and cloud infrastructure (AWS — VPC, Lambda, RDS)
-- Exploring **AI-assisted product tooling** and applied ML pipelines
-
----
-
-## — The Numbers Don't Lie
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithish9020&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish9020&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <em>"Ship it. Learn from it. Build something better."</em>
-</p>
+Open to full-time backend or full stack roles for 2027. If you're building something interesting, my inbox is open.
