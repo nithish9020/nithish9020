@@ -14,31 +14,41 @@
 
 ### About me
 
-I'm a final-year IT student at SKCET, Coimbatore. Most of what I know I picked up by shipping things for real users, from a gym owner's app to a retail shop that bills customers on my ERP every day.
+Final-year IT student at SKCET, Coimbatore. I like the parts of a product users never see: background jobs that don't lose work, AI calls that fail over cleanly, apps that keep working offline.
 
-Recently I spent five months at **SWS AI** building Yellow Owl, an assessment platform where AI writes and grades the tests. I worked on all of it: the backend, the Flutter app, the React dashboards, and the release pipeline that pushes builds to the Play Store and TestFlight.
+### Work experience
 
-The work I like most is the part users never see. Background jobs that don't lose work. AI calls that fail over to another provider instead of erroring out. Apps that keep billing when the shop's internet drops.
+**Full Stack Developer Intern · SWS AI** · *Jun 2026 – Oct 2026*
+- Shipped **Yellow Owl**, an AI-graded assessment platform, to 200+ users on web, Android and iOS
+- Built the backend on Redis/BullMQ queues for question generation and parallel test evaluation
+- Put AI calls behind a provider layer with retries, so models can be swapped without code changes
+- Built the Flutter app and React dashboards on one OpenAPI spec
+- Automated Android and iOS releases with Fastlane on a self-hosted Mac mini runner
 
-### Things I've built
-
-**Yellow Owl** · *SWS AI, 2026*
-AI-graded assessments plus daily and weekly challenges, used by 200+ people on web, Android and iOS. Question generation and test evaluation run in the background on Redis and BullMQ. The AI provider sits behind its own layer, so we can switch models without touching business logic. The app and dashboards both use API clients generated from one OpenAPI spec, and releases go out through Fastlane on a Mac mini we run as a CI runner.
 `Node.js` `TypeScript` `MongoDB` `Redis` `BullMQ` `Azure` `Flutter` `React` `Fastlane`
 
-**[TP-ERP](https://github.com/nithish9020/tp-erp)** · *billing and inventory for a retail shop*
-Live in production and used by the shop's staff every day. I sat with them to understand how they actually work, then cut the usual ERP features down to what they needed. It has a web app and a mobile app in one monorepo that share the same validation schemas, plus offline billing that syncs when the connection is back and a PIN login so the counter stays fast.
-`TypeScript` `React` `React Native` `Expo` `PostgreSQL` `Drizzle` `Zod`
+### Projects
 
-**[Coligo](https://github.com/nithish9020/coligo-college-admission-assistant)** · *WhatsApp admissions assistant (team project)*
-A RAG backend that answers cutoff questions from official admission data and shows where each answer came from. It's based on an SIH problem statement. It has a primary and a fallback LLM, and lint, type checks and tests run in CI before anything is deployed.
+**[TP-ERP](https://github.com/nithish9020/tp-erp)** · billing and inventory ERP for a retail shop
+- Live in production, used daily by the shop staff
+- Web and mobile in one monorepo, sharing validation schemas
+- Offline billing with background sync, PIN login for fast counter use
+
+`TypeScript` `React` `React Native` `PostgreSQL` `Drizzle` `Zod`
+
+**[Coligo](https://github.com/nithish9020/coligo-college-admission-assistant)** · WhatsApp admissions assistant (team project)
+- RAG backend that answers cutoff queries from official data, with sources
+- Primary and fallback LLM behind one interface; lint, types and tests in CI
+
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Celery` `Redis`
 
-**[VTone](https://github.com/nithish9020/vtone-gym-suite)** · *freelance gym app*
-A gym app with separate access for admins, trainers and members. It tracks workouts and diets, and sends fee reminders over WhatsApp automatically so the owner doesn't have to chase people.
+**[VTone](https://github.com/nithish9020/vtone-gym-suite)** · freelance gym management app
+- Separate access for admins, trainers and members
+- Workout and diet tracking, automated fee reminders over WhatsApp
+
 `React Native` `Express` `Firebase` `WhatsApp API`
 
-Older side projects: [NammaBus](https://github.com/nithish9020/NammaBus) (live bus tracking) and [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular) (Spring Boot + React).
+Older: [NammaBus](https://github.com/nithish9020/NammaBus) · [Interview Scheduler](https://github.com/nithish9020/Interview_Schedular)
 
 ### What I work with
 
