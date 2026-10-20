@@ -55,6 +55,7 @@ Older: [NammaBus](https://github.com/nithish9020/NammaBus) · [Interview Schedul
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,react,flutter,tailwind,nodejs,express,fastapi,redis,postgres,mongodb,docker,githubactions,azure,firebase,git,linux&perline=9" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### Right now
